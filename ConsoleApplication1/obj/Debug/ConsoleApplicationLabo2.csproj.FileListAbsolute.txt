@@ -1,0 +1,6 @@
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplication1\obj\Debug\ConsoleApplicationLabo2.csprojResolveAssemblyReference.cache

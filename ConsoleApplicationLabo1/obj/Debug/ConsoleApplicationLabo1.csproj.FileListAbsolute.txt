@@ -1,0 +1,12 @@
+U:\Année 2015-2016\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe.config
+U:\Année 2015-2016\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe
+U:\Année 2015-2016\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.pdb
+U:\Année 2015-2016\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.csprojResolveAssemblyReference.cache
+U:\Année 2015-2016\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.exe
+U:\Année 2015-2016\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.pdb
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe.config
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.exe
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.pdb
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.csprojResolveAssemblyReference.cache
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe
+U:\3IG\Environnement de Dev\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.pdb
